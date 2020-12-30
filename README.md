@@ -1,4 +1,4 @@
 ### CYBE
-usercybe'ın projeler yarrattığı yere <h3>hoşgeldin.</h3>
+this is where I post my repositories. <h3>welcome. </h3>
 
-discorddan ulaşım: cybe#9999
+where you can find me: cybe#1241 on discord
