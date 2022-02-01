@@ -1,4 +1,4 @@
 ### CYBE
-I post random things. <h3>welcome. </h3>
+I like to code.
 
-my discord: cybe#2238
+Discord: cybe#4342
