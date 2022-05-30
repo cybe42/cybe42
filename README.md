@@ -9,3 +9,5 @@ Hello, I'm cybe and I like to code.
 ![Discord: ](https://dcbadge.vercel.app/api/shield/864954707525107712 )
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=cybe42&show_icons=true&theme=radical)
+
+![](https://hit.yhype.me/github/profile?user_id=47478929)
