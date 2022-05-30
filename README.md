@@ -12,4 +12,4 @@ Hello, I'm cybe and I like to code.
 
 ![](https://hit.yhype.me/github/profile?user_id=47478929)
 
-https://komarev.com/ghpvc/?username=usercybe
+![](https://komarev.com/ghpvc/?username=usercybe)
