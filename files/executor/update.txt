@@ -1,0 +1,4 @@
+version 0.3a
+deletetest.txt delete
+modifytest.txt update 982a0dee991204366b6fa698f0ff8cedfdd599a4280a967cfb33b5956a1eb1e5 https://github.com/cybe42/cybe42/releases/download/stable/modified.txt
+addtest.txt update bd34ddd3e22892f762d16a742714f98855281a75e522ededc76c55ea91c28dc4 https://github.com/cybe42/cybe42/releases/download/stable/addtest.txt
