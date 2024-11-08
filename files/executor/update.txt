@@ -1,1 +1,2 @@
-version: 0.2a
+version 0.3atest
+MyExploits.dll update 4cd1bc0c9187a7e1172e4c1afcb8f39a4f1cb7b383e97ad567bfab93dbad36e0 https://github.com/cybe42/cybe42/releases/download/stable2/dll.bin
