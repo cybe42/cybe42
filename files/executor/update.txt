@@ -1,2 +1,2 @@
-version 0.3atest
-MyExploits.dll update 4cd1bc0c9187a7e1172e4c1afcb8f39a4f1cb7b383e97ad567bfab93dbad36e0 https://github.com/cybe42/cybe42/releases/download/stable2/dll.bin
+version 0.3a
+MyExploits.dll update 97359e73822b0bdf519fe1ef8012fcdf560da5ed5d531f82ba4382a2363e135b https://cdn.discordapp.com/attachments/1196137479502311534/1304580083901530134/MyExploits.dll?ex=672fe861&is=672e96e1&hm=2221055c4be5f8d3254b7e50f84ee082c3b410bd063e4195a88f2080ee1a0f78&
