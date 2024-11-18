@@ -1,4 +1,4 @@
-version 0.4a
-MyExploits.dll update dcb241f8fb4d7f118368d21c758901ba63a57b1340e38ce0e9668488a4b41961 https://github.com/cybe42/cybe42/releases/download/stable4/myexpd.bin
-MyExploits.exe update 842e97c5a846d68e2b28ab0d5a250f139ef406482f7ccf5a69e7a2791befa6f1 https://github.com/cybe42/cybe42/releases/download/stable4/myexpe.bin
-MyExploitsAPI.dll update 18273f7755c8a9b6be493f57d96f4fa3a3b2f8561668213543ea348f829dd64a https://github.com/cybe42/cybe42/releases/download/stable4/myexpapi.bin
+version 0.5a
+MyExploits.dll update 20a8e73cb789dce274575d5a37a55d52f411d57be3743d626e013a708acb596f https://github.com/cybe42/cybe42/releases/download/stable4/medll.bin
+MyExploits.exe update 842e97c5a846d68e2b28ab0d5a250f139ef406482f7ccf5a69e7a2791befa6f1 https://github.com/cybe42/cybe42/releases/download/stable4/me.bin
+MyExploitsAPI.dll update 23626bedd41459b51feb527ab3edbec1581fc803b482d02d9c341fd13370846f https://github.com/cybe42/cybe42/releases/download/stable4/meapi.bin
