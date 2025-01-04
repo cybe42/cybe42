@@ -1,5 +1,5 @@
-version 0.7.1a
-MyExploits.dll update 92cf87794a5ede8ead2447c7b771da708b3e7227fbaa3c1538de4fa1a2970f1e https://github.com/cybe42/cybe42/releases/download/stable4/myexploitsv07.dll
-MyExploits.exe update 622c2dff4b9ab891bd9fb0bdbb4743d2d38744d17d422ca0b5552e6f0147aa6d https://github.com/cybe42/cybe42/releases/download/stable4/myexploitsv07.exe
-MyExploitsAPI.dll update 898988ff8d8227156487e4d9a565b1ea82985a7580aec4b43d6eb204184b4e53 https://github.com/cybe42/cybe42/releases/download/stable4/upaMyExploitsAPI.dll
+version 0.8a
+MyExploits.dll update a2c8a5311d951cbc8bd9ddd39da23257a05557ca74520762d76ce7e0090cbaa2 https://github.com/cybe42/cybe42/releases/download/stable4/raahMyExploits.dll
+MyExploits.exe update 2326a1f20ebe055ce75de88eb4aad32716c79c1018f9c2ccd1c4f04dcce44eb0 https://github.com/cybe42/cybe42/releases/download/stable4/raahMyExploits.exe
+MyExploitsAPI.dll update 68de04edb04d23517669f7b642835a6eb01a621fca2a0b48c4038d00c9dc00cb https://github.com/cybe42/cybe42/releases/download/stable4/raahMyExploitsAPI.dll
 myexploits_decompiler.dll update f94b12556df984a4461093fc7a5d1acc225ec11844a552e360f0c6db31f769bc https://github.com/cybe42/cybe42/releases/download/stable4/myexploitsdecom.dll
