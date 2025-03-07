@@ -1,7 +1,7 @@
-version 0.9.8a
-MyExploits.dll update 2bbb5afc754a7a42231644a6cbcf9942f767cb1aa01e00483e3a946697a4c7f8 https://github.com/cybe42/cybe42/releases/download/stable4/wMyExploits.dll
-MyExploits.exe update ebd710c48417e45c190a43c30d8a1cb516bd129ab8f61c0b86d7502c1cb9ae02 https://github.com/cybe42/cybe42/releases/download/stable4/zMyExploits.exe
-MyExploitsAPI.dll update 2357156c3b44da5e1bc8a2df453524a445d0b4043089497438e2d986a75de661 https://github.com/cybe42/cybe42/releases/download/stable4/niggaMyExploitsAPI.dll
+version 0.9.9a
+MyExploits.dll update 29849e2225e66d2b7495df1d021dffdedbc9ba56d6a5ce2cbc7771979570ebcd https://github.com/cybe42/cybe42/releases/download/stable4/impMyExploits.dll
+MyExploits.exe update ebd710c48417e45c190a43c30d8a1cb516bd129ab8f61c0b86d7502c1cb9ae02 https://github.com/cybe42/cybe42/releases/download/stable4/impMyExploits.exe
+MyExploitsAPI.dll update 4b856b148e612f9f89c5f7d960b622edf0a71f24e2c27fa0a12c58ab94a925a5 https://github.com/cybe42/cybe42/releases/download/stable4/impMyExploitsAPI.dll
 myexploits_decompiler.dll update f94b12556df984a4461093fc7a5d1acc225ec11844a552e360f0c6db31f769bc https://github.com/cybe42/cybe42/releases/download/stable4/myexploitsdecom.dll
 MyExploits.deps.json update 5d6f557b6a43e69345301f3e2a3f8945d7355892cdab8633c811eb88e5a3b246 https://github.com/cybe42/cybe42/releases/download/stable4/helpMyExploits.deps.json
 delete Microsoft.Web.WebView2.Core.dll
