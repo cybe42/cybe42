@@ -1,7 +1,7 @@
 version 1.0.2a
 MyExploits.dll update b17b19ea7567343853aed0f040be6c7c6c6f751796fee8116a9b4f944530baf2 https://github.com/cybe42/cybe42/releases/download/stable4/moonMyExploits.dll
 MyExploits.exe update ebd710c48417e45c190a43c30d8a1cb516bd129ab8f61c0b86d7502c1cb9ae02 https://github.com/cybe42/cybe42/releases/download/stable4/moonMyExploits.exe
-MyExploitsAPI.dll update 84dda2cd216e0007b08df1a28a4d0b167acbfe744ef21258217475568b84fb6b https://github.com/cybe42/cybe42/releases/download/stable4/moonMyExploitsAPI.dll
+MyExploitsAPI.dll update b51dbaddf266c85c13c5aa07abe72a8de8680ef1d1148d55afc96d7dca62a204 https://github.com/cybe42/cybe42/releases/download/stable4/lvl8MyExploitsAPI.dll
 myexploits_decompiler.dll update f94b12556df984a4461093fc7a5d1acc225ec11844a552e360f0c6db31f769bc https://github.com/cybe42/cybe42/releases/download/stable4/myexploitsdecom.dll
 MyExploits.deps.json update 5d6f557b6a43e69345301f3e2a3f8945d7355892cdab8633c811eb88e5a3b246 https://github.com/cybe42/cybe42/releases/download/stable4/helpMyExploits.deps.json
 delete Microsoft.Web.WebView2.Core.dll
